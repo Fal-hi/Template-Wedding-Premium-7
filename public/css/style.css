@@ -101,7 +101,6 @@ ul.navbar-bawah li a:hover {
 }
 
 .header .foto-mempelai img {
-  /* margin-top: 5rem; */
   max-width: 50%;
   height: auto;
   border-radius: var(--lengkung);
