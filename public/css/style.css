@@ -243,8 +243,9 @@ ul.navbar-bawah li a:hover {
 }
 
 .gallery .isi-gallery {
-  height: 100vh;
+  height: 100%;
   width: 100%;
+  padding-bottom: 2rem;
 }
 
 .gallery .isi-gallery .container {
@@ -779,7 +780,7 @@ ul.navbar-bawah li a:hover {
     padding-bottom: 3rem;
   }
   .gallery .isi-gallery {
-    height: 43vh;
+    height: 100%;
   }
   .gallery .isi-gallery .container {
     padding-top: 2rem;
@@ -827,15 +828,18 @@ ul.navbar-bawah li a:hover {
     max-height: 55vh;
   }
   .header .foto-mempelai img {
-    max-width: 75%;
-    margin-top: 17rem;
+    max-width: 65%;
+    margin-top: 10rem;
     z-index: 2;
   }
   .header .nama-mempelai {
     height: 55vh;
   }
   .header .nama-mempelai .nama {
-    margin-top: 9rem;
+    margin-top: 6rem;
+  }
+  .header .nama-mempelai .nama h1 {
+    font-size: 2rem;
   }
   .header .nama-mempelai p {
     font-size: 1rem;
@@ -844,7 +848,7 @@ ul.navbar-bawah li a:hover {
     height: 65vh;
   }
   .surat p {
-    padding: 15rem 1rem 0 1rem;
+    padding: 9rem 1rem 0 1rem;
     font-size: 1rem;
   }
   .pengantin h3.tcp {
@@ -882,7 +886,8 @@ ul.navbar-bawah li a:hover {
     padding-bottom: 1rem;
   }
   .gallery .isi-gallery {
-    height: 100vh;
+    height: 100%;
+    padding-bottom: 1rem;
   }
   .gallery .isi-gallery .container {
     padding-top: 2rem;
